@@ -1,0 +1,9 @@
+#Container{
+    display: grid;
+    grid-template-columns: repeat(16,1fr);
+}
+.Cubo{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+}
